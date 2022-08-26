@@ -21,16 +21,16 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
  
  ETAPAS DO PROJETO:
  
- 1 Passo - Usar a biblioteca do Pandas para importar todos os arquivos que serão usados no projeto.
+ 1 ETAPA - Usar a biblioteca do Pandas para importar todos os arquivos que serão usados no projeto.
  
- 2 Passo - Criar uma "Pasta de Backup", dentro desta pasta criar uma pasta para cada loja, com um arquivo que tem todas as informações de vendas da loja.
+ 2 ETAPA - Criar uma "Pasta de Backup", dentro desta pasta criar uma pasta para cada loja, com um arquivo que tem todas as informações de vendas da loja.
  
- 3 Passo - Calcular os indicadores das lojas:(Faturamento, Diversidade de Produtos e Ticket Médio por Venda).
+ 3 ETAPA - Calcular os indicadores das lojas:(Faturamento, Diversidade de Produtos e Ticket Médio por Venda).
  
- 4 Passo - Enviar um e-mail para cada lojas contendo as informações dos indicadores e um anexo.
+ 4 ETAPA - Enviar um e-mail para cada lojas contendo as informações dos indicadores e um anexo.
  
- 5 Passo - Criar um ranking com todas as lojas da melhor a pior com base no faturamento.
+ 5 ETAPA - Criar um ranking com todas as lojas da melhor a pior com base no faturamento.
  
- 6 Passo - Mandar um e-mail para a diretoria, contendo a informação do ranking das lojas e no anexo 2 arquivos, o primeiro referente ao ranking diario das lojas, e o outro arquivo com o ranking anual das lojas.
+ 6 ETAPA - Mandar um e-mail para a diretoria, contendo a informação do ranking das lojas e no anexo 2 arquivos, o primeiro referente ao ranking diario das lojas, e o outro arquivo com o ranking anual das lojas.
  
 
