@@ -14,9 +14,9 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
  
  BIBLIOTECAS USADAS:
  
- Pandas
- Pathlib
- Win32com
+ Pandas,
+ Pathlib,
+ Win32com.
  
  
  ETAPAS DO PROJETO:
